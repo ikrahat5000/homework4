@@ -21,7 +21,7 @@ public class Main {
 
         System.out.println(cumma / kolichestvo);
         System.out.println(arr.length);
-
+//dop
 
     }
 }
